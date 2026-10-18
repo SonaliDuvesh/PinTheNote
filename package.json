@@ -15,7 +15,7 @@
         "timer"
     ],
     "author": "",
-    "license": "ISC",
+    "license": "UNLICENSED",
     "dependencies": {
         "html2canvas": "^1.4.1",
         "lucide-react": "^0.294.0",

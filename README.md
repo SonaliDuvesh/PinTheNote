@@ -14,7 +14,7 @@ An elegant, privacy-conscious digital sanctuary where notes, knowledge, creativi
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
     <img src="https://img.shields.io/badge/Local--First-IndexedDB-F58220?style=for-the-badge&logo=html5&logoColor=white" alt="Local First" />
     <img src="https://img.shields.io/badge/AI_Powered-Nemotron_550B-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nemotron AI" />
-    <img src="https://img.shields.io/badge/License-MIT-green.style=for-the-badge" alt="License" />
+    <img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge" alt="License" />
   </p>
 
 </div>
@@ -198,6 +198,23 @@ graph TD
     Components --> C6["ActivitySection.jsx<br/>• Category time analytics<br/>• Focus streak trends"]
     Components --> C7["LivingCat.jsx<br/>• 60 FPS interactive pet<br/>• Idle, walk & stretch moods"]
 ```
+
+---
+
+## 📄 License
+
+Copyright (c) 2026 [Sonali Duvesh](https://github.com/SonaliDuvesh). All rights reserved.
+
+No permission is granted to use, copy, modify, distribute, or
+commercially exploit this source code or its associated assets
+without prior written permission from the copyright holder.
+
+Access to the deployed application is permitted for personal use
+subject to its applicable Terms of Use. This does not grant any
+license to reuse, reproduce, or redistribute the website's code,
+design, branding, or assets.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ---
 
