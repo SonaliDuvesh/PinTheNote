@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Sonali Duvesh](https://github.com/SonaliDuvesh). All rights reserved.
+Copyright (c) 2026 [Sonali Duvesh](https://github.com/SonaliDuvesh). All rights reserved. to me
 
 No permission is granted to use, copy, modify, distribute, or
 commercially exploit this source code or its associated assets
